@@ -7,4 +7,4 @@ We use matlab to model closed-loop control systems and study their behavior. We 
 
 Final Week Assignment
 
-<img width="938" alt="Ekran Resmi 2024-01-09 10 44 15" src="https://github.com/sensoyyasin/power_system_control/assets/73845925/410a2b81-c190-471d-8712-b0b315964aad">
+<img width="700" alt="Ekran Resmi 2024-01-09 10 44 15" src="https://github.com/sensoyyasin/power_system_control/assets/73845925/410a2b81-c190-471d-8712-b0b315964aad">
