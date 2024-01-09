@@ -1,0 +1,9 @@
+pay = 1;
+payda = [1 10 20];
+sys = tf(pay,payda);
+Kp = 300;
+Kd = 10;
+sys_pd = tf([Kd Kp], 1);
+sis_top = series(sys,sys_pd);
+sis_kc = feedback(sis_top,1);
+t = 0:0.01:2, step(sis_kc,t)
